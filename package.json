@@ -1,0 +1,16 @@
+{
+  "name": "my-awesome-package",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "highcharts": "^8.2.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "version": "1.0.0",
+  "description": "The best package you will ever find.",
+  "main": "index.js",
+  "repository": "https://github.com/yarnpkg/example-yarn-package",
+  "author": "Imaginetic <imaginetic.studios@gmail.com>",
+  "license": "MIT"
+}
